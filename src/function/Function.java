@@ -1,3 +1,5 @@
+package function;
+
 /**
  * Interface for an f(x) type function (only one variable). Has three methods: derivative & integral return a Function
  * class which is the result of derivative or integral of the given function. Evaluate returns a double corresponding to
